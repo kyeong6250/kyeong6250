@@ -7,7 +7,7 @@
 </div>
 
 🤖 Artificial Intelligence Specialist @ Handshake AI — evaluating AI training data for reasoning &amp; coding tasks
-🎓 Computer Science student @ Southern New Hampshire University (GPA 3.9, expected 2027)
+🎓 Computer Science student @ Southern New Hampshire University (GPA 3.9, expected Feb 2027)
 🪖 Medical Logistics Technician, United States Air Force — 4+ years managing $25M+ in mission-critical equipment
 🔐 Cybersecurity Trainee @ iZen AI Inc. (Boots2Bytes) — defensive security, risk analysis, threat assessment
 📍 San Antonio, TX
