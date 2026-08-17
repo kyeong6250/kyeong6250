@@ -6,10 +6,10 @@
 
 </div>
 
-🤖 Artificial Intelligence Specialist @ Handshake AI — evaluating AI training data for reasoning &amp; coding tasks
+🤖 Artificial Intelligence Specialist @ Handshake AI, evaluating AI training data for reasoning &amp; coding tasks
 🎓 Computer Science student @ Southern New Hampshire University (GPA 3.9, expected Feb 2027)
-🪖 Medical Logistics Technician, United States Air Force — 4+ years managing $25M+ in mission-critical equipment
-🔐 Cybersecurity Trainee @ iZen AI Inc. (Boots2Bytes) — defensive security, risk analysis, threat assessment
+🪖 Medical Logistics Technician, United States Air Force, 4+ years managing $25M+ in mission-critical equipment
+🔐 Cybersecurity Trainee @ iZen AI Inc. (Boots2Bytes), defensive security, risk analysis, threat assessment
 📍 San Antonio, TX
 
 <div align="center">
@@ -65,14 +65,14 @@
 
 ### 💼 Experience
 
-**Artificial Intelligence Specialist** — Handshake AI *(Remote, July 2026 – Present)*
-Evaluate AI-generated outputs for instruction adherence and reasoning/web-search quality on complex coding and reasoning tasks; document recurring model errors and craft challenging reasoning prompts to stress-test system weaknesses.
+**Artificial Intelligence Specialist**, Handshake AI *(Remote, July 2026 to Present)*
+Evaluate AI-generated outputs for instruction adherence and reasoning/web-search quality on complex coding and reasoning tasks. Document recurring model errors and craft challenging reasoning prompts to stress-test system weaknesses.
 
-**Medical Logistics Technician** — United States Air Force, Lackland AFB, TX *(August 2021 – Present)*
-Manage $25M+ in emergency medical equipment and $200K+ in supply acquisitions with full payment reconciliation; apply Lean Six Sigma to optimize workflows; run queue management for 400+ supply custodians; deliver Excel-based readiness reports under SLA compliance.
+**Medical Logistics Technician**, United States Air Force, Lackland AFB, TX *(August 2021 to Present)*
+Manage $25M+ in emergency medical equipment and $200K+ in supply acquisitions with full payment reconciliation. Apply Lean Six Sigma to optimize workflows, run queue management for 400+ supply custodians, and deliver Excel-based readiness reports under SLA compliance.
 
-**Boots2Bytes Cybersecurity Trainee** — iZen AI Inc. *(Remote, January 2026 – Present)*
-Defensive security and risk assessment training — threat identification, technical scenario analysis, and structured security documentation.
+**Boots2Bytes Cybersecurity Trainee**, iZen AI Inc. *(Remote, January 2026 to Present)*
+Defensive security and risk assessment training, covering threat identification, technical scenario analysis, and structured security documentation.
 
 ---
 
@@ -92,11 +92,11 @@ Defensive security and risk assessment training — threat identification, techn
 
 </div>
 
-- 🔒 **Artemis Financial Secure Software** — Implemented HTTPS/SSL in a Spring Boot app, SHA-256 checksum verification, and dependency vulnerability analysis with OWASP Dependency-Check.
-- 🧪 **Boots2Bytes Cybersecurity Training** — Hands-on labs in security principles, threat identification, incident response, and risk analysis.
-- 🗂️ **Java Contact/Task/Appointment Management Systems** — OOP-based Java services with full JUnit test coverage.
+- 🔒 **Artemis Financial Secure Software**: Implemented HTTPS/SSL in a Spring Boot app, SHA-256 checksum verification, and dependency vulnerability analysis with OWASP Dependency-Check.
+- 🧪 **Boots2Bytes Cybersecurity Training**: Hands-on labs in security principles, threat identification, incident response, and risk analysis.
+- 🗂️ **Java Contact/Task/Appointment Management Systems**: OOP-based Java services with full JUnit test coverage.
 
-> Replace the repo names above with your actual GitHub repo slugs once these projects are pushed — the pin cards only render for public repos that exist.
+> Replace the repo names above with your actual GitHub repo slugs once these projects are pushed. The pin cards only render for public repos that exist.
 
 ---
 
@@ -115,11 +115,11 @@ Defensive security and risk assessment training — threat identification, techn
 
 ### 🎖️ Honors & Certifications
 
-- 🏅 President's List (×3) — Southern New Hampshire University
-- 🏅 Honor Roll (×8) — Southern New Hampshire University
-- 📜 CompTIA Security+ — January 2024
-- 📜 Lean Six Sigma Green Belt — USAF, January 2023
-- 📜 Basic Life Support (BLS) — AHA, August 2021
+- 🏅 President's List (×3), Southern New Hampshire University
+- 🏅 Honor Roll (×8), Southern New Hampshire University
+- 📜 CompTIA Security+, January 2024
+- 📜 Lean Six Sigma Green Belt, USAF, January 2023
+- 📜 Basic Life Support (BLS), AHA, August 2021
 
 ---
 
