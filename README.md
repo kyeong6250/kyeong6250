@@ -114,7 +114,7 @@ Defensive security and risk assessment training, covering threat identification,
 
 - 🏅 President's List (×3), Southern New Hampshire University
 - 🏅 Honor Roll (×8), Southern New Hampshire University
-- 📜 CompTIA Security+, January 2024
+- 📜 CompTIA Security+ (in progress)
 - 📜 Lean Six Sigma Green Belt, USAF, January 2023
 - 📜 Basic Life Support (BLS), AHA, August 2021
 
