@@ -2,10 +2,11 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;U.S.+Air+Force+Medical+Logistics+Technician;Cybersecurity+%2B+Secure+Software+Enthusiast;Active+Secret+Clearance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Specialist+%40+Handshake+AI;U.S.+Air+Force+Medical+Logistics+Technician;Cybersecurity+%2B+Secure+Software+Enthusiast;Active+Secret+Clearance)](https://git.io/typing-svg)
 
 </div>
 
+🤖 Artificial Intelligence Specialist @ Handshake AI — evaluating AI training data for reasoning &amp; coding tasks
 🎓 Computer Science student @ Southern New Hampshire University (GPA 3.9, expected 2027)
 🪖 Medical Logistics Technician, United States Air Force — 4+ years managing $25M+ in mission-critical equipment
 🔐 Cybersecurity Trainee @ iZen AI Inc. (Boots2Bytes) — defensive security, risk analysis, threat assessment
@@ -30,6 +31,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Linux VMs](https://img.shields.io/badge/-Virtual%20Machines-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -40,7 +42,37 @@
 ![Vulnerability Management](https://img.shields.io/badge/-Vulnerability%20Management-2E8555?style=flat-square)
 ![Network Security](https://img.shields.io/badge/-Network%20Security-2E8555?style=flat-square)
 
+![AI Data Evaluation](https://img.shields.io/badge/-AI%20Data%20Evaluation-6D28D9?style=flat-square)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-6D28D9?style=flat-square)
+![Financial Systems Analysis](https://img.shields.io/badge/-Financial%20Systems%20Analysis-6D28D9?style=flat-square)
+![Root-Cause Problem Solving](https://img.shields.io/badge/-Root--Cause%20Problem%20Solving-6D28D9?style=flat-square)
+
+![Supply Chain Management](https://img.shields.io/badge/-Supply%20Chain%20Management-B45309?style=flat-square)
+![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-B45309?style=flat-square)
+![Queue Management](https://img.shields.io/badge/-Queue%20Management-B45309?style=flat-square)
+![Payment Reconciliation](https://img.shields.io/badge/-Payment%20Reconciliation-B45309?style=flat-square)
+![SLA Management](https://img.shields.io/badge/-SLA%20Management-B45309?style=flat-square)
+![Workflow Documentation](https://img.shields.io/badge/-Workflow%20Documentation-B45309?style=flat-square)
+![Project Management](https://img.shields.io/badge/-Project%20Management-B45309?style=flat-square)
+![Stakeholder Management](https://img.shields.io/badge/-Stakeholder%20Management-B45309?style=flat-square)
+![Inventory Management](https://img.shields.io/badge/-Inventory%20Management-B45309?style=flat-square)
+![Medical Equipment Management](https://img.shields.io/badge/-Medical%20Equipment%20Management-B45309?style=flat-square)
+![Procurement](https://img.shields.io/badge/-Procurement%20%26%20Acquisitions-B45309?style=flat-square)
+
 </div>
+
+---
+
+### 💼 Experience
+
+**Artificial Intelligence Specialist** — Handshake AI *(Remote, July 2026 – Present)*
+Evaluate AI-generated outputs for instruction adherence and reasoning/web-search quality on complex coding and reasoning tasks; document recurring model errors and craft challenging reasoning prompts to stress-test system weaknesses.
+
+**Medical Logistics Technician** — United States Air Force, Lackland AFB, TX *(August 2021 – Present)*
+Manage $25M+ in emergency medical equipment and $200K+ in supply acquisitions with full payment reconciliation; apply Lean Six Sigma to optimize workflows; run queue management for 400+ supply custodians; deliver Excel-based readiness reports under SLA compliance.
+
+**Boots2Bytes Cybersecurity Trainee** — iZen AI Inc. *(Remote, January 2026 – Present)*
+Defensive security and risk assessment training — threat identification, technical scenario analysis, and structured security documentation.
 
 ---
 
@@ -85,9 +117,9 @@
 
 - 🏅 President's List (×3) — Southern New Hampshire University
 - 🏅 Honor Roll (×8) — Southern New Hampshire University
-- 📜 CompTIA Security+ *(in progress)*
-- 📜 Lean Six Sigma Green Belt — training completed
-- 📜 Basic Life Support (BLS)
+- 📜 CompTIA Security+ — January 2024
+- 📜 Lean Six Sigma Green Belt — USAF, January 2023
+- 📜 Basic Life Support (BLS) — AHA, August 2021
 
 ---
 
