@@ -1,4 +1,4 @@
-# Hi there, I'm Kyeong Hun Yang 👋
+# Kyeong Hun Yang 
 
 <div align="center">
 
