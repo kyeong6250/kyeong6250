@@ -16,7 +16,7 @@ Evaluating AI-generated outputs on coding and reasoning tasks for instruction-fo
 **Medical Logistics Technician**, United States Air Force, Lackland AFB, TX — *August 2021–Present*
 Manage $25M+ in emergency medical equipment and $200K+ in supply acquisitions, reconciling every payment along the way. Picked up Lean Six Sigma to cut down process bottlenecks, run queue management for 400+ supply custodians, and put together Excel-based readiness reports under SLA deadlines.
 
-**Cybersecurity Trainee (Boots2Bytes)**, iZen AI Inc. — *Remote, January 2026–Present*
+**Cybersecurity Trainee (Boots2Bytes)**, iZen AI Inc. — *Remote, June 2026–Present*
 Working through defensive security fundamentals: threat identification, risk assessment, and documenting technical findings the way an actual security team would expect.
 
 ---
