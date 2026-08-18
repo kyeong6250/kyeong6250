@@ -1,127 +1,50 @@
-# Kyeong Hun Yang 
+# Kyeong Hun Yang
 
-<div align="center">
+AI Specialist at Handshake AI, Computer Science student, and active-duty Medical Logistics Technician in the U.S. Air Force. I evaluate AI training data by day, manage $25M+ in medical equipment for the Air Force, and build software on the side, mostly Python, with a growing focus on security. Based in San Antonio, TX, holding an active Secret clearance.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;AI+Specialist+%40+Handshake+AI;U.S.+Air+Force+Medical+Logistics+Technician;Cybersecurity+%2B+Secure+Software+Enthusiast;Active+Secret+Clearance)](https://git.io/typing-svg)
+[LinkedIn](https://linkedin.com/in/kyeonghunyang001) · [kyeong6250@gmail.com](mailto:kyeong6250@gmail.com)
 
-</div>
-
-Artificial Intelligence Specialist @ Handshake AI, evaluating AI training data for reasoning &amp; coding tasks
-Computer Science student @ Southern New Hampshire University (GPA 3.9, expected Feb 2027)
-Medical Logistics Technician, United States Air Force, 4+ years managing $25M+ in mission-critical equipment
-Cybersecurity Trainee @ iZen AI Inc. (Boots2Bytes), defensive security, risk analysis, threat assessment
-📍 San Antonio, TX
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-kyeonghunyang001-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kyeonghunyang001)
-[![Email](https://img.shields.io/badge/-kyeong6250%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kyeong6250@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=kyeong6250&color=38BDF8&style=flat&label=Profile+Views)
 
-</div>
+---
+
+## What I'm doing
+
+**Artificial Intelligence Specialist**, Handshake AI — *Remote, July 2026–Present*
+Evaluating AI-generated outputs on coding and reasoning tasks for instruction-following and quality. A lot of it comes down to catching the same model failure twice and writing it up clearly enough to be useful, plus building harder prompts to find where a model's reasoning actually breaks.
+
+**Medical Logistics Technician**, United States Air Force, Lackland AFB, TX — *August 2021–Present*
+Manage $25M+ in emergency medical equipment and $200K+ in supply acquisitions, reconciling every payment along the way. Picked up Lean Six Sigma to cut down process bottlenecks, run queue management for 400+ supply custodians, and put together Excel-based readiness reports under SLA deadlines.
+
+**Cybersecurity Trainee (Boots2Bytes)**, iZen AI Inc. — *Remote, January 2026–Present*
+Working through defensive security fundamentals: threat identification, risk assessment, and documenting technical findings the way an actual security team would expect.
 
 ---
 
-### 🛠️ Skills & Tools
+## Skills
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Linux VMs](https://img.shields.io/badge/-Virtual%20Machines-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Security Fundamentals](https://img.shields.io/badge/-Security%20Fundamentals-2E8555?style=flat-square)
-![Risk Assessment](https://img.shields.io/badge/-Risk%20Assessment-2E8555?style=flat-square)
-![Incident Response](https://img.shields.io/badge/-Incident%20Response-2E8555?style=flat-square)
-![Vulnerability Management](https://img.shields.io/badge/-Vulnerability%20Management-2E8555?style=flat-square)
-![Network Security](https://img.shields.io/badge/-Network%20Security-2E8555?style=flat-square)
-
-![AI Data Evaluation](https://img.shields.io/badge/-AI%20Data%20Evaluation-6D28D9?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-6D28D9?style=flat-square)
-![Financial Systems Analysis](https://img.shields.io/badge/-Financial%20Systems%20Analysis-6D28D9?style=flat-square)
-![Root-Cause Problem Solving](https://img.shields.io/badge/-Root--Cause%20Problem%20Solving-6D28D9?style=flat-square)
-
-![Supply Chain Management](https://img.shields.io/badge/-Supply%20Chain%20Management-B45309?style=flat-square)
-![Process Optimization](https://img.shields.io/badge/-Process%20Optimization-B45309?style=flat-square)
-![Queue Management](https://img.shields.io/badge/-Queue%20Management-B45309?style=flat-square)
-![Payment Reconciliation](https://img.shields.io/badge/-Payment%20Reconciliation-B45309?style=flat-square)
-![SLA Management](https://img.shields.io/badge/-SLA%20Management-B45309?style=flat-square)
-![Workflow Documentation](https://img.shields.io/badge/-Workflow%20Documentation-B45309?style=flat-square)
-![Project Management](https://img.shields.io/badge/-Project%20Management-B45309?style=flat-square)
-![Stakeholder Management](https://img.shields.io/badge/-Stakeholder%20Management-B45309?style=flat-square)
-![Inventory Management](https://img.shields.io/badge/-Inventory%20Management-B45309?style=flat-square)
-![Medical Equipment Management](https://img.shields.io/badge/-Medical%20Equipment%20Management-B45309?style=flat-square)
-![Procurement](https://img.shields.io/badge/-Procurement%20%26%20Acquisitions-B45309?style=flat-square)
-
-</div>
+**Programming & tools:** Java, C++, Python, Git, GitHub, Spring Boot, Eclipse, Microsoft Excel, Linux virtual machines
+**Security:** security fundamentals, risk assessment, incident response, vulnerability management, network security
+**AI & data:** AI data evaluation, data analysis, financial systems analysis, root-cause problem solving
+**Logistics & operations:** supply chain management, inventory management, process optimization, queue management, payment reconciliation, SLA management, workflow documentation, project management, stakeholder management, procurement & acquisitions
 
 ---
 
-### 💼 Experience
+## Projects
 
-**Artificial Intelligence Specialist**, Handshake AI *(Remote, July 2026 to Present)*
-Evaluate AI-generated outputs for instruction adherence and reasoning/web-search quality on complex coding and reasoning tasks. Document recurring model errors and craft challenging reasoning prompts to stress-test system weaknesses.
-
-**Medical Logistics Technician**, United States Air Force, Lackland AFB, TX *(August 2021 to Present)*
-Manage $25M+ in emergency medical equipment and $200K+ in supply acquisitions with full payment reconciliation. Apply Lean Six Sigma to optimize workflows, run queue management for 400+ supply custodians, and deliver Excel-based readiness reports under SLA compliance.
-
-**Boots2Bytes Cybersecurity Trainee**, iZen AI Inc. *(Remote, January 2026 to Present)*
-Defensive security and risk assessment training, covering threat identification, technical scenario analysis, and structured security documentation.
+- **[gbemulator](https://github.com/kyeong6250/gbemulator)** — a Game Boy emulator written in Python: SM83 CPU, MMU, PPU, cartridge/MBC support, and a pygame frontend, backed by a full CPU instruction-set test suite.
+- **[Better-curl](https://github.com/kyeong6250/Better-curl)** — a CLI that sends HTTP requests described by a YAML/JSON file instead of curl flags, with clean error handling and full test coverage.
+- **[Jump-Game](https://github.com/kyeong6250/Jump-Game)** — a small browser game built with plain CSS and JavaScript.
+- **Artemis Financial Secure Software** — secured a Spring Boot app end-to-end: HTTPS with SSL certificates, SHA-256 checksum verification, and dependency vulnerability scanning with OWASP Dependency-Check. *(coursework project, not yet public)*
+- **Java Contact/Task/Appointment Management Systems** — a suite of Java services built around core OOP principles, with full JUnit coverage. *(coursework project, not yet public)*
 
 ---
 
-### 📌 Featured Projects
+## Education & certifications
 
-<div align="center">
+**B.S. Computer Science**, Southern New Hampshire University — GPA 3.9, expected Feb 2027
+President's List ×3, Honor Roll ×8
 
-<a href="https://github.com/kyeong6250/artemis-financial-secure-software">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyeong6250&repo=artemis-financial-secure-software&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/kyeong6250/boots2bytes-cybersecurity-training">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyeong6250&repo=boots2bytes-cybersecurity-training&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/kyeong6250/java-contact-task-appointment-service">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kyeong6250&repo=java-contact-task-appointment-service&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-- 🔒 **Artemis Financial Secure Software**: Implemented HTTPS/SSL in a Spring Boot app, SHA-256 checksum verification, and dependency vulnerability analysis with OWASP Dependency-Check.
-- 🧪 **Boots2Bytes Cybersecurity Training**: Hands-on labs in security principles, threat identification, incident response, and risk analysis.
-- 🗂️ **Java Contact/Task/Appointment Management Systems**: OOP-based Java services with full JUnit test coverage.
-
-> Replace the repo names above with your actual GitHub repo slugs once these projects are pushed. The pin cards only render for public repos that exist.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kyeong6250&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 🎖️ Honors & Certifications
-
-- 🏅 President's List (×3), Southern New Hampshire University
-- 🏅 Honor Roll (×8), Southern New Hampshire University
-- 📜 CompTIA Security+ (in progress)
-- 📜 Lean Six Sigma Green Belt, USAF, January 2023
-- 📜 Basic Life Support (BLS), AHA, August 2021
-
----
-
-<div align="center">
-
-*Managing logistics by day, writing code by night. Always learning, always building.*
-
-</div>
+- CompTIA Security+ (in progress)
+- Lean Six Sigma Green Belt, USAF, January 2023
+- Basic Life Support (BLS), AHA, August 2021
