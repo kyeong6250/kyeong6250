@@ -1,20 +1,20 @@
 # Kyeong Hun Yang
 
-AI Specialist at Handshake AI, Computer Science student, and active-duty Medical Logistics Technician in the U.S. Air Force. I evaluate AI training data by day, manage $25M+ in medical equipment for the Air Force, and build software on the side, mostly Python, with a growing focus on security. Based in San Antonio, TX, holding an active Secret clearance.
+Computer Science student at Southern New Hampshire University, CompTIA Security+ certified technologist, and U.S. Air Force veteran. I evaluate AI-generated coding and reasoning, build software in Python, Java, and JavaScript, and bring five years of medical logistics experience to work at the intersection of engineering and security. Based in San Antonio, TX, with an active Secret clearance.
 
-[LinkedIn](https://linkedin.com/in/kyeonghunyang001) · [kyeong6250@gmail.com](mailto:kyeong6250@gmail.com)
+[Portfolio & résumé](https://kyeong6250.github.io/) · [LinkedIn](https://linkedin.com/in/kyeonghunyang001) · [kyeong6250@gmail.com](mailto:kyeong6250@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kyeong6250&color=38BDF8&style=flat&label=Profile+Views)
 
 ---
 
-## What I'm doing
+## Experience & current work
 
 **Artificial Intelligence Specialist**, Handshake AI — *Remote, July 2026–Present*
 Evaluating AI-generated outputs on coding and reasoning tasks for instruction-following and quality. A lot of it comes down to catching the same model failure twice and writing it up clearly enough to be useful, plus building harder prompts to find where a model's reasoning actually breaks.
 
-**Medical Logistics Technician**, United States Air Force, Lackland AFB, TX — *August 2021–Present*
-Manage $25M+ in emergency medical equipment and $200K+ in supply acquisitions, reconciling every payment along the way. Picked up Lean Six Sigma to cut down process bottlenecks, run queue management for 400+ supply custodians, and put together Excel-based readiness reports under SLA deadlines.
+**Medical Logistics Technician**, United States Air Force, Lackland AFB, TX — *August 2021–August 2026*
+Managed $25M+ in emergency medical equipment and $200K+ in supply acquisitions. Supported inventory quality assurance, logistics systems, and Excel-based readiness reporting for leadership.
 
 **Cybersecurity Trainee (Boots2Bytes)**, iZen AI Inc. — *Remote, June 2026–Present*
 Working through defensive security fundamentals: threat identification, risk assessment, and documenting technical findings the way an actual security team would expect.
@@ -45,6 +45,6 @@ Working through defensive security fundamentals: threat identification, risk ass
 **B.S. Computer Science**, Southern New Hampshire University — GPA 3.9, expected Feb 2027
 President's List ×3, Honor Roll ×8
 
-- CompTIA Security+ (in progress)
+- **CompTIA Security+ (SY0-701), earned September 2026**
 - Lean Six Sigma Green Belt, USAF, January 2023
 - Basic Life Support (BLS), AHA, August 2021
