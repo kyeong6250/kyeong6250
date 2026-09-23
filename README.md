@@ -22,6 +22,10 @@ I managed $25M+ in emergency medical equipment and tracked over $200K in supply 
 
 I practice threat identification and risk assessment, then write up the technical findings.
 
+**IT Technician**, Marumsco Cleaners, Woodbridge, VA — *2016–2020*
+
+I was the primary IT contact for workstations, point-of-sale systems, and the business network. I managed technology upgrade projects from needs assessment and budgeting through vendor coordination, installation, and employee training.
+
 ---
 
 ## Skills
@@ -29,7 +33,7 @@ I practice threat identification and risk assessment, then write up the technica
 **Programming & tools:** Java, C++, Python, Git, GitHub, Spring Boot, Eclipse, Microsoft Excel, Linux virtual machines
 **Security:** security fundamentals, risk assessment, incident response, vulnerability management, network security
 **AI & data:** AI data evaluation, data analysis, financial systems analysis, root-cause problem solving
-**Logistics & operations:** supply chain management, inventory management, process optimization, queue management, payment reconciliation, SLA management, workflow documentation, project management, stakeholder management, procurement & acquisitions
+**Logistics & operations:** project management, supply chain management, inventory management, process optimization, queue management, payment reconciliation, SLA management, workflow documentation, project management, stakeholder management, procurement & acquisitions
 
 ---
 
