@@ -1,6 +1,6 @@
 # Kyeong Hun Yang
 
-Computer Science student at Southern New Hampshire University, CompTIA Security+ certified technologist, and U.S. Air Force veteran. I evaluate AI-generated coding and reasoning, build software in Python, Java, and JavaScript, and bring five years of medical logistics experience to work at the intersection of engineering and security. Based in San Antonio, TX, with an active Secret clearance.
+I'm studying computer science at Southern New Hampshire University (3.9 GPA; expected graduation February 2027). I finished five years in Air Force medical logistics in August 2026 and earned CompTIA Security+ the next month. I build software in Python, Java, and JavaScript, and review AI-generated coding and reasoning at Handshake AI. I'm based in San Antonio, TX, with an active Secret clearance.
 
 [Portfolio & résumé](https://kyeong6250.github.io/) · [LinkedIn](https://linkedin.com/in/kyeonghunyang001) · [kyeong6250@gmail.com](mailto:kyeong6250@gmail.com)
 
@@ -11,13 +11,16 @@ Computer Science student at Southern New Hampshire University, CompTIA Security+
 ## Experience & current work
 
 **Artificial Intelligence Specialist**, Handshake AI — *Remote, July 2026–Present*
-Evaluating AI-generated outputs on coding and reasoning tasks for instruction-following and quality. A lot of it comes down to catching the same model failure twice and writing it up clearly enough to be useful, plus building harder prompts to find where a model's reasoning actually breaks.
+
+I review AI-generated coding and reasoning against task instructions. When an error recurs, I document examples and write prompts that test the same weakness.
 
 **Medical Logistics Technician**, United States Air Force, Lackland AFB, TX — *August 2021–August 2026*
-Managed $25M+ in emergency medical equipment and $200K+ in supply acquisitions. Supported inventory quality assurance, logistics systems, and Excel-based readiness reporting for leadership.
+
+I managed $25M+ in emergency medical equipment and tracked over $200K in supply acquisitions. I checked inventory records, troubleshot logistics systems, and prepared Excel-based readiness reports for leadership.
 
 **Cybersecurity Trainee (Boots2Bytes)**, iZen AI Inc. — *Remote, June 2026–Present*
-Working through defensive security fundamentals: threat identification, risk assessment, and documenting technical findings the way an actual security team would expect.
+
+I practice threat identification and risk assessment, then write up the technical findings.
 
 ---
 
@@ -35,7 +38,7 @@ Working through defensive security fundamentals: threat identification, risk ass
 - **[gbemulator](https://github.com/kyeong6250/gbemulator)** — a Game Boy emulator written in Python: SM83 CPU, MMU, PPU, cartridge/MBC support, and a pygame frontend, backed by a full CPU instruction-set test suite.
 - **[Better-curl](https://github.com/kyeong6250/Better-curl)** — a CLI that sends HTTP requests described by a YAML/JSON file instead of curl flags, with clean error handling and full test coverage.
 - **[Jump-Game](https://github.com/kyeong6250/Jump-Game)** — a small browser game built with plain CSS and JavaScript.
-- **Artemis Financial Secure Software** — secured a Spring Boot app end-to-end: HTTPS with SSL certificates, SHA-256 checksum verification, and dependency vulnerability scanning with OWASP Dependency-Check. *(coursework project, not yet public)*
+- **Artemis Financial Secure Software** — secured a Spring Boot coursework app with HTTPS, SHA-256 checksum verification, and OWASP Dependency-Check scans. *(coursework project, not yet public)*
 - **Java Contact/Task/Appointment Management Systems** — a suite of Java services built around core OOP principles, with full JUnit coverage. *(coursework project, not yet public)*
 
 ---
